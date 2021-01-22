@@ -1,0 +1,22 @@
+{
+  "name": "cifra-de-troca-de-data",
+  "version": "1.0.0",
+  "description": "Atividade da disciplina de segurança de redes, consiste em criptografar/descriptografar uma mensagem através do método de troca de data.",
+  "main": "cifrar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniielqueiroz/Cifra-de-Troca-de-Data.git"
+  },
+  "author": "João Daniel Queiroz da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniielqueiroz/Cifra-de-Troca-de-Data/issues"
+  },
+  "homepage": "https://github.com/daniielqueiroz/Cifra-de-Troca-de-Data#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
